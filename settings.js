@@ -22,9 +22,9 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6283176793414','6283176793414','6283176793414'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6283176793414'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6283176793414' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
@@ -41,8 +41,8 @@ global.email = 'riychdwaynee@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = 'Zyxx-Botz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'Zyxx' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
